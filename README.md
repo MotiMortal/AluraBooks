@@ -1,9 +1,9 @@
 # AluraBooks
 Projeto de página feito junto com aulas da Alura sobre CSS focado na responsividade em diferentes tamanhos de tela.
 ## Índice
-* [HTML e CSS](HTML e CSS)
-* [Mobile-first](Mobile-first)
-   - [Responsividade](Responsivadade)
+* [HTML e CSS](https://github.com/MotiMortal/AluraBooks#html-e-css)
+* [Mobile-first](https://github.com/MotiMortal/AluraBooks#mobile-first)
+   - [Responsividade](https://github.com/MotiMortal/AluraBooks#responsividade)
 
 ## HTML e CSS
 No `<head>` do HTML é possível notar ligações com o Google Fonts que é origem dos modelos e pesos de fontes utilizados no projeto (_Josefin-sans e Poppins_). Há, também, ligações com as folhas de estilo: reset.css e style.css; e um script. Onde o reset (https://meyerweb.com/eric/tools/css/reset/) funciona para tirar todas os estilos padrões de cada navegador, afim de padronizar a experiência do usuário, mesmo que ele acesse de diferentes navegadores (o projeto foi desenvolvido utilizando o Mozilla Forefox como visualizador).
